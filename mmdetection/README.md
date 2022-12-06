@@ -32,7 +32,10 @@
 ├── tools
 └── tutorial_exps
 ```
-Thư mục checkpoints để lưu model 
+
+<b>2. Training một model mới </b>
+
+Thư mục checkpoints để lưu pretrained model - (phải phù hợp với file configs tương
 
 Thư mục data là thư mục để xử lý dữ liệu trước khi training
 
