@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="resources/mmdet-logo.png" width="600"/>
-  <div>&nbsp;</div>
   <div align="center">
     <b><font size="5">Hướng dẫn sử dụng Open MMDETECTION</font></b>
     <sup>
