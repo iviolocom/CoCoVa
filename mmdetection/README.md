@@ -49,3 +49,7 @@ mmdetection là bộ công cụ khá hoàn chỉnh khi bạn muốn train bất 
 trong thư mục mmdet dataset
 
 Hãy nhớ chỉnh dữ liệu trong file __init__.py
+
+<b>3. Chạy thử với một model mới </b>
+
+Mở file /demo/LabeledData_Processing.ipynb
