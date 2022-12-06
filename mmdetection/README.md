@@ -7,6 +7,7 @@
 </div>
 
 <b>1. Giới thiệu thư mục con của mmdetection </b>
+```
 ├── checkpoints
 ├── CITATION.cff
 ├── configs
@@ -30,7 +31,7 @@
 ├── tests
 ├── tools
 └── tutorial_exps
-
+```
 Thư mục checkpoints để lưu model 
 
 Thư mục data là thư mục để xử lý dữ liệu trước khi training
